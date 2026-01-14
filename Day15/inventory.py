@@ -1,0 +1,1 @@
+inventory={"Milk":500, "Coffee":300, "Water":1000, "Money":0}
